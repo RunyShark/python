@@ -33,3 +33,29 @@ print(fragment)
 
 fragment = base[::-3]
 print(fragment)
+
+
+upper_case = 'red'
+print(upper_case.upper())
+
+lower_case = 'RED'
+print(lower_case.lower())
+
+capitalize_case = 'hello'
+print(capitalize_case.capitalize())
+
+array = '123456789'
+print(array.split())
+
+
+a = 'phyton'
+b = 'es'
+c = 'facil'
+
+arr = ' '.join([a,b,c])
+
+print(arr)
+
+
+
+
