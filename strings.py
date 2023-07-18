@@ -51,10 +51,13 @@ print(array.split())
 a = 'phyton'
 b = 'es'
 c = 'facil'
+f = 'facil'
 
-arr = ' '.join([a,b,c])
+arr = ' '.join([a,b,c,f])
 
 print(arr)
+
+arr.replace('facil', 'genial')
 
 
 
